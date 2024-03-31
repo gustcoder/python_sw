@@ -9,7 +9,7 @@
 
 <h1> Descrição </h1>
 
-A SWAPI é uma API bem simples e interessante que traz diversas informações interessantes sobre os filmes, personagens, planetas e demais dados sobre o clássico Star Wars!
+A SWAPI é uma API bem simples e interessante que traz diversas informações sobre os filmes, personagens, planetas e demais dados sobre o clássico Star Wars!
 E serve muito bem para o aprendizado sobre REST API, requests etc.
 
 Este projeto tem como objetivo apenas fazer algumas requisições para esta API utilizando Python e alguns recursos do Pandas.
