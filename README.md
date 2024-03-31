@@ -17,10 +17,12 @@ Este projeto tem como objetivo apenas fazer algumas requisições para esta API 
 * Docker versão 20 ou superior
 
 <h1> Buildando o container </h1>
+Após clonar o projeto, dentro do diretório principal, por favor execute o seguinte comando:
 
 ```docker build -t python-sw .```
 
 <h1> Executando script </h1>
+Após ter buidado o container, vamos rodá-lo!
 
 ```docker run -it --rm --name python-sw-app python-sw```
 
