@@ -30,7 +30,8 @@ Após ter buidado o container, vamos rodá-lo!
 
 <h1> Saída Esperada </h1>
 O retorno esperado é aparecer esta lista de filmes ordenada pelo episódio:
-![image](https://github.com/gustcoder/python_sw/assets/52874054/a71a683f-07e0-45e9-9587-22eff88ba270)
+![image](https://github.com/gustcoder/python_sw/assets/52874054/5004e93d-ea8d-4a58-9876-dac046b19200)
+
 
 
 <b>Materiais de apoio</b>:
