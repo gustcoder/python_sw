@@ -5,6 +5,8 @@
 ![Badge Python](http://img.shields.io/static/v1?label=PYTHON&message=V.3&color=blue&style=for-the-badge)
 ![Badge Docker](http://img.shields.io/static/v1?label=DOCKER&message=Container&color=blue&style=for-the-badge)
 
+![image](https://github.com/gustcoder/python_sw/assets/52874054/ab12af76-766d-4069-8902-7facd845c96e)
+
 <h1> Descrição </h1>
 
 A SWAPI é uma API bem simples e interessante que traz diversas informações interessantes sobre os filmes, personagens, planetas e demais dados sobre o clássico Star Wars!
