@@ -11,7 +11,7 @@ def get_films():
         for film in films:
             films_dict = {
                 "episode_id": film["episode_id"],
-                "tile": film["title"]
+                "title": film["title"]
             }
             films_list.append(films_dict)
 
