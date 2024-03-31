@@ -19,8 +19,10 @@ def get_films():
     except Exception as err:
         print("There was an error to get films. Please try again!", err)
 
+
 def order_films(df, sort_column = 'episode_id'):
     return df.sort_values(by=[sort_column])
+
 
 def main():
     try:
